@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @MaxFSP
-- 👀 I’m interested in Python, C++,C#
-- 🌱 I’m currently learning Ruby and AI in python
-- 💞️ I’m looking to collaborate on any fun projects!!
-- 📫 How to reach me:
-    Email: maximiliano.farfanp@gmail.com
-    Discord: MaxF#8582
+
     
-    ## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats
 <br>
 
 <a href="https://github.com/MaxFSP">
