@@ -1,4 +1,4 @@
-
+Hey I am Maximiliano, student at Escuela Militar de Ingenieria. I am interested in learning new frameworks, improving my skills at any programming language language and I'm willing to take any challenge that comes ahead.
     
 ## &#x1f4c8; GitHub Stats
 <br>
