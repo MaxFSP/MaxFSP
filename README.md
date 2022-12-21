@@ -23,15 +23,12 @@ Hey I am Maximiliano, student at Escuela Militar de Ingenieria. I am interested 
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++.js&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=HTML.js&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 
 <details>
 <summary>🔨 Tools</summary>
 <br>
 <br>
-    
-    
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-
 
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
