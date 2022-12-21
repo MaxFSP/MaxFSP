@@ -5,3 +5,5 @@
 - 📫 How to reach me:
     Email: santiago.farfan2001@gmail.com
     Discord: MaxF#8582
+    
+    ## &#x1f4c8; GitHub Stats
