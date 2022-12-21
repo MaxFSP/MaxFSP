@@ -21,6 +21,7 @@
 <br>
 ## 💼 Skills
 
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
@@ -30,3 +31,4 @@
 
 <details>
 <summary>More Skills</summary>
+<br>
