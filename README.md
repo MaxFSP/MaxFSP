@@ -28,6 +28,7 @@
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Node.js&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-html-informational?style=flat&logo=Node.js&logoColor=white&color=4AB197)
 
 <details>
 <summary>🔨 Tools</summary>
