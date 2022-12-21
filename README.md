@@ -32,3 +32,32 @@
 <details>
 <summary>More Skills</summary>
 <br>
+    <br>
+
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+
+<br>
+
+![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
+
+<br>
+
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Windows-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-macOs-informational?style=flat&logo=macOs&logoColor=white&color=4AB197)
+![](<https://img.shields.io/badge/Tools-Visual Studio Code-informational?style=flat&logo=Visual Studio Code&logoColor=white&color=4AB197>)
+![](<https://img.shields.io/badge/Tools-Pycharm-informational?style=flat&logo=Pycharm&logoColor=white&color=4AB197>)
+![](<https://img.shields.io/badge/Tools-Android Studio-informational?style=flat&logo=Android Studio&logoColor=white&color=4AB197>)
+![](<https://img.shields.io/badge/Tools-Xcode-informational?style=flat&logo=Xcode&logoColor=white&color=4AB197>)
+
+
+
+</details>
+
+<br>
