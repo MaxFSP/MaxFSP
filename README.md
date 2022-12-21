@@ -32,8 +32,7 @@
 <details>
 <summary>More Skills</summary>
 <br>
-
-    <br>
+<br>
     
 ## 🔨 Tools
     
