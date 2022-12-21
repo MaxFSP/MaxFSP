@@ -30,7 +30,7 @@
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Node.js&logoColor=white&color=4AB197)
 
 <details>
-<summary>## 🔨 Tools</summary>
+<summary>🔨 Tools</summary>
 <br>
 <br>
     
