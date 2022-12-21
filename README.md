@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Ruby and AI in python
 - 💞️ I’m looking to collaborate on any fun projects!!
 - 📫 How to reach me:
-    Email: santiago.farfan2001@gmail.com
+    Email: maximiliano.farfanp@gmail.com
     Discord: MaxF#8582
     
     ## &#x1f4c8; GitHub Stats
@@ -30,11 +30,10 @@
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Node.js&logoColor=white&color=4AB197)
 
 <details>
-<summary>More Skills</summary>
+<summary>## 🔨 Tools</summary>
 <br>
 <br>
     
-## 🔨 Tools
     
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 
