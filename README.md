@@ -1,13 +1,53 @@
-# 💫 About Me:
-Hey I am Maximiliano, student at Escuela Militar de Ingenieria. I am interested in learning new frameworks, improving my skills at any programming language and I'm willing to take any challenge that comes ahead.<br><br>
+Santiago Maximiliano Paz Farfán
 
+Software Engineer · Houston, Texas
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxFSP&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Portfolio · LinkedIn
 
----
-[![](https://visitcount.itsvg.in/api?id=MaxFSP&icon=0&color=12)](https://visitcount.itsvg.in)
+I build web applications and backend services with TypeScript, React, Next.js, Python, and AWS. My work includes real estate applications, healthcare software, reporting automation, and contributions to PearAI.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Open source: PearAI
+
+I have authored 15 merged pull requests across four PearAI repositories. Selected contributions include:
+
+Website release preparation: Removed waitlist routes and restrictions, enabled downloads, and updated pricing and mobile navigation for v1.
+
+Linux downloads and setup: Added a Linux download option and installation guide, and improved the download interface.
+
+Editor behavior: Checked for an open workspace before launching chat on the new-window page.
+
+Responsive documentation: Fixed embedded video sizing and navigation overflow on mobile.
+
+View the full contribution record, including merged work and a separately marked open proposal.
+
+Professional work
+
+Real estate — CrowdTech: Built the complete Frak Ventures web UI and user flows. Other work included APIs, database schemas, authentication, technical SEO, and AWS releases.
+
+Healthcare — AssureSoft / Raintree Systems: Built batched audio-upload workflows and implemented tenant-specific access controls in production. Source code is proprietary.
+
+Reporting automation — freelance: Built a Python application with pandas and Tkinter for company-specific civil engineering reports. The client validated calculations derived from an approved example. The longest reports went from about three days of manual work to about five minutes, including review.
+
+Public projects
+
+Project
+
+Description
+
+PearAI Linux installer
+
+Bash scripts for installation, removal, desktop integration, and URL handling.
+
+Terminal portfolio · Source
+
+React and TypeScript portfolio with case studies and links to public contributions.
+
+Technologies
+
+Web: TypeScript, JavaScript, React, Next.js, Node.js
+
+Backend and data: Python, pandas, SQL, PostgreSQL, GraphQL
+
+Infrastructure: AWS Lambda, AppSync, DynamoDB, CDK, Docker, Linux
+
+I also maintain a Proxmox home lab with Linux containers, Docker, ZFS, and Tailscale, and have configured Proxmox VMs and containers for a client.
